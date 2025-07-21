@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Java Practice & SDE Prep</h1>
+<h1 align="center">🚀 Java Practice </h1>
 
 <p align="center">
   📚 Practicing Java to master fundamentals, crack SDE interviews & build real confidence. <br>
@@ -21,16 +21,7 @@
 
 ---
 
-## 🗂️ Project Structure
-
-/java-practice/
-│
-├── basics/ → Hello World, Variables, Data Types
-├── oops/ → Inheritance, Abstraction, Polymorphism
-├── collections/ → List, Set, Map, Stack, Queue
-├── dsa/ → Arrays, Strings, Trees, Graphs
-└── README.md
-
+## 🗂️ I will push all my daily java practice questions here
 
 > Each folder = 1 focused topic. No clutter. No BS.
 
