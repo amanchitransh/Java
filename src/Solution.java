@@ -19,6 +19,7 @@ class Solution {
         return max;
     }
 
+
     public static void main(String[] args) {
         Solution solution = new Solution();
         int sol = solution.lengthOfLongestSubstring("ahfyebsganauetqbsjs");
