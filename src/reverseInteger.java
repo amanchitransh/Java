@@ -1,4 +1,5 @@
 public class reverseInteger {
+    // reverse 32 bit integer
         public int reverse(int x) {
             int min = -2147483648;
             int max = 2147483647;
