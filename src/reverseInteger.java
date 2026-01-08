@@ -3,13 +3,10 @@ public class reverseInteger {
         public int reverse(int x) {
             int min = -2147483648;
             int max = 2147483647;
-
             int res = 0;
-
             while (x != 0) {
                 int lastDigit = x % 10;
                 x = x / 10;
-
                 if ((res > max / 10) || (res == max / 10 && lastDigit >= max % 10)) {
                     return 0;
                 }
@@ -20,7 +17,6 @@ public class reverseInteger {
             }
             return res;
         }
-
     public static void main(String[] args) {
             reverseInteger reverseInteger = new reverseInteger();
             System.out.println("25796");
