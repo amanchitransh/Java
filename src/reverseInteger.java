@@ -19,10 +19,10 @@ public class reverseInteger {
         }
     public static void main(String[] args) {
             reverseInteger reverseInteger = new reverseInteger();
-            System.out.println("7845484");
+            System.out.println("7878898");
         System.out.println("Reverse of the above number is:");
 
-        System.out.println(reverseInteger.reverse(7845484));
+        System.out.println(reverseInteger.reverse(7878898));
 
     }
 }
