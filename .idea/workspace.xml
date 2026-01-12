@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="14ebd0ea-06bd-4500-8d83-0d83ee43712b" name="Changes" comment="reverse 32 bit integer">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reverseInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/reverseInteger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/longestPalindromeSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/longestPalindromeSubstring.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +45,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Solution.executor": "Run",
+    "Application.longestPalindromeSubstring.executor": "Run",
     "Application.longestSubstring.executor": "Run",
     "Application.reverseInteger.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
@@ -117,7 +117,7 @@
       <updated>1753130641293</updated>
       <workItem from="1753130642339" duration="36178000" />
       <workItem from="1765815599577" duration="668000" />
-      <workItem from="1767376324375" duration="19450000" />
+      <workItem from="1767376324375" duration="20099000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <option name="closed" value="true" />
@@ -207,7 +207,23 @@
       <option name="project" value="LOCAL" />
       <updated>1767892244723</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="reverse 32 bit integer">
+      <option name="closed" value="true" />
+      <created>1768136220754</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1768136220754</updated>
+    </task>
+    <task id="LOCAL-00013" summary="reverse 32 bit integer">
+      <option name="closed" value="true" />
+      <created>1768136244975</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1768136244975</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
