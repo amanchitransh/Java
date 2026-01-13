@@ -8,14 +8,12 @@ public class strToInt {
         int parsed = 0;
         int min = -2147483648;
         int max = 2147483647;
-
         if (s.charAt(i) == '+') {
             i++;
         } else if (s.charAt(i) == '-') {
             i++;
             sign = -1;
         }
-
         while (i < n) {
             if (!Character.isDigit(s.charAt(i))) {
                 break;
@@ -26,17 +24,13 @@ public class strToInt {
             if (parsed > (max - digit) / 10) {
                 return sign == 1 ? max : min;
             }
-
             parsed = parsed * 10 + digit;
             i++;
         }
-
         return parsed * sign;
     }
-
     public static void main(String[] args) {
         strToInt obj = new strToInt();
-
         String[] tests = {
                 "42",
                 "   -42",
