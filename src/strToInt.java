@@ -2,7 +2,6 @@ public class strToInt {
     public int myAtoi(String s) {
         s = s.stripLeading();
         if (s.length() <= 0) return 0;
-
         int i = 0, n = s.length();
         int sign = 1;
         int parsed = 0;
@@ -18,9 +17,7 @@ public class strToInt {
             if (!Character.isDigit(s.charAt(i))) {
                 break;
             }
-
             int digit = s.charAt(i) - '0';
-
             if (parsed > (max - digit) / 10) {
                 return sign == 1 ? max : min;
             }
