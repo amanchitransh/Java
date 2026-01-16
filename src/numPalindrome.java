@@ -18,14 +18,11 @@ class numPalindrome {
         }
         return true;
     }
-
     public static void main(String[] args) {
         numPalindrome obj = new numPalindrome();
         int[] tests = {
                 1410110141,52851851,1414,1515,15151,17272,18181,19191,1478998741,18757,1785,4788
-
         };
-
         for (int test : tests) {
             System.out.println("Input: \"" + test + "\" -> Output: " + obj.isPalindrome(test));
         }
