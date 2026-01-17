@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="14ebd0ea-06bd-4500-8d83-0d83ee43712b" name="Changes" comment="atoI">
-      <change afterPath="$PROJECT_DIR$/src/containerWithMostWater.java" afterDir="false" />
+    <list default="true" id="14ebd0ea-06bd-4500-8d83-0d83ee43712b" name="Changes" comment="container with most water">
+      <change afterPath="$PROJECT_DIR$/src/twoDMatrixSearch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,6 +35,9 @@
     &quot;accountId&quot;: &quot;17fd4b16-97eb-4104-ac0a-78d1ade1e195&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -46,11 +49,13 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Solution.executor": "Run",
+    "Application.containerWithMostWater.executor": "Run",
     "Application.longestPalindromeSubstring.executor": "Run",
     "Application.longestSubstring.executor": "Run",
     "Application.numPalindrome.executor": "Run",
     "Application.reverseInteger.executor": "Run",
     "Application.strToInt.executor": "Run",
+    "Application.twoDMatrixSearch.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
@@ -65,7 +70,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.containerWithMostWater">
+  <component name="RunManager" selected="Application.twoDMatrixSearch">
     <configuration name="containerWithMostWater" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="containerWithMostWater" />
       <module name="Java" />
@@ -87,13 +92,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="reverseInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="reverseInteger" />
-      <module name="Java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="strToInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="strToInt" />
       <module name="Java" />
@@ -101,13 +99,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="twoDMatrixSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="twoDMatrixSearch" />
+      <module name="Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.twoDMatrixSearch" />
         <item itemvalue="Application.containerWithMostWater" />
         <item itemvalue="Application.numPalindrome" />
         <item itemvalue="Application.strToInt" />
         <item itemvalue="Application.longestPalindromeSubstring" />
-        <item itemvalue="Application.reverseInteger" />
       </list>
     </recent_temporary>
   </component>
@@ -130,7 +135,7 @@
       <workItem from="1765815599577" duration="668000" />
       <workItem from="1767376324375" duration="20906000" />
       <workItem from="1768323833007" duration="10432000" />
-      <workItem from="1768533744727" duration="3185000" />
+      <workItem from="1768533744727" duration="7236000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <option name="closed" value="true" />
@@ -292,7 +297,15 @@
       <option name="project" value="LOCAL" />
       <updated>1768586894246</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="container with most water">
+      <option name="closed" value="true" />
+      <created>1768641539348</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1768641539348</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -322,6 +335,7 @@
     <MESSAGE value="refactor" />
     <MESSAGE value="reverse 32 bit integer" />
     <MESSAGE value="atoI" />
-    <option name="LAST_COMMIT_MESSAGE" value="atoI" />
+    <MESSAGE value="container with most water" />
+    <option name="LAST_COMMIT_MESSAGE" value="container with most water" />
   </component>
 </project>
