@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="14ebd0ea-06bd-4500-8d83-0d83ee43712b" name="Changes" comment="atoI">
+      <change afterPath="$PROJECT_DIR$/src/containerWithMostWater.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/numPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/numPalindrome.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,16 +65,16 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.numPalindrome">
-    <configuration name="longestPalindromeSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="longestPalindromeSubstring" />
+  <component name="RunManager" selected="Application.containerWithMostWater">
+    <configuration name="containerWithMostWater" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="containerWithMostWater" />
       <module name="Java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="longestSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="longestSubstring" />
+    <configuration name="longestPalindromeSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="longestPalindromeSubstring" />
       <module name="Java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -103,11 +103,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.containerWithMostWater" />
         <item itemvalue="Application.numPalindrome" />
         <item itemvalue="Application.strToInt" />
         <item itemvalue="Application.longestPalindromeSubstring" />
         <item itemvalue="Application.reverseInteger" />
-        <item itemvalue="Application.longestSubstring" />
       </list>
     </recent_temporary>
   </component>
@@ -130,7 +130,7 @@
       <workItem from="1765815599577" duration="668000" />
       <workItem from="1767376324375" duration="20906000" />
       <workItem from="1768323833007" duration="10432000" />
-      <workItem from="1768533744727" duration="1824000" />
+      <workItem from="1768533744727" duration="3185000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <option name="closed" value="true" />
@@ -276,7 +276,23 @@
       <option name="project" value="LOCAL" />
       <updated>1768489776950</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="atoI">
+      <option name="closed" value="true" />
+      <created>1768586878404</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1768586878404</updated>
+    </task>
+    <task id="LOCAL-00020" summary="atoI">
+      <option name="closed" value="true" />
+      <created>1768586894246</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1768586894246</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -307,51 +323,5 @@
     <MESSAGE value="reverse 32 bit integer" />
     <MESSAGE value="atoI" />
     <option name="LAST_COMMIT_MESSAGE" value="atoI" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/numPalindrome.java</url>
-          <line>12</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/numPalindrome.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/numPalindrome.java</url>
-          <line>14</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/numPalindrome.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/numPalindrome.java</url>
-          <line>17</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/numPalindrome.java</url>
-          <line>18</line>
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/numPalindrome.java</url>
-          <line>24</line>
-          <option name="timeStamp" value="10" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/numPalindrome.java</url>
-          <line>6</line>
-          <option name="timeStamp" value="11" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
