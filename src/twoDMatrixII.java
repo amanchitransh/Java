@@ -50,7 +50,6 @@ class twoDMatrixII {
                 {10, 13, 14, 17, 24},
                 {18, 21, 23, 26, 30}
         };
-
         System.out.println("Example 1 (target=5): " + solution.searchMatrix(matrix1, 5));   // true
         System.out.println("Example 2 (target=20): " + solution.searchMatrix(matrix1, 20)); // false
         System.out.println("Corner case (target=1): " + solution.searchMatrix(matrix1, 1));   // true
