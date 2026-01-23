@@ -22,7 +22,7 @@ public class reverseInteger {
             System.out.println("7878898");
         System.out.println("Reverse of the above number is:");
 
-        System.out.println(reverseInteger.reverse(7878898));
+        System.out.println(reverseInteger.reverse(55848));
 
     }
 }
