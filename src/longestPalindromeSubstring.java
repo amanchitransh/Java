@@ -25,7 +25,7 @@ public class longestPalindromeSubstring {
     }
     public static void main(String[] args) {
         longestPalindromeSubstring longestSubstr = new longestPalindromeSubstring();
-        String sol = longestSubstr.longestPalindrome("yhyhyhyhyhyhyhrdrdrdedrsd");
+        String sol = longestSubstr.longestPalindrome("hhhdddhhhdddhhhugfuwydgvuygwef");
         System.out.println(sol);
     }
 }
