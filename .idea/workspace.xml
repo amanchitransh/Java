@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="14ebd0ea-06bd-4500-8d83-0d83ee43712b" name="Changes" comment="2d matrix II fix">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/longestPalindromeSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/longestPalindromeSubstring.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reverseInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/reverseInteger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/strToInt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/strToInt.java" afterDir="false" />
-    </list>
+    <list default="true" id="14ebd0ea-06bd-4500-8d83-0d83ee43712b" name="Changes" comment="2d matrix II fix" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -138,7 +133,7 @@
       <workItem from="1765815599577" duration="668000" />
       <workItem from="1767376324375" duration="20906000" />
       <workItem from="1768323833007" duration="10432000" />
-      <workItem from="1768533744727" duration="14117000" />
+      <workItem from="1768533744727" duration="15329000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <option name="closed" value="true" />
@@ -372,7 +367,23 @@
       <option name="project" value="LOCAL" />
       <updated>1769101802087</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="2d matrix II fix">
+      <option name="closed" value="true" />
+      <created>1769192124971</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1769192124972</updated>
+    </task>
+    <task id="LOCAL-00031" summary="2d matrix II fix">
+      <option name="closed" value="true" />
+      <created>1769192129487</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1769192129487</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
