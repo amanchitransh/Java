@@ -20,7 +20,7 @@ class Solution {
 
     public static void main(String[] args) {
         Solution solution = new Solution();
-        int sol = solution.lengthOfLongestSubstring("ljnijhijbh");
+        int sol = solution.lengthOfLongestSubstring("jhgfjygfjfjhgfhjgfhjgf");
         System.out.println(sol);
     }
 }
